@@ -1,0 +1,2 @@
+ // "dev": "node server",
+        // "build": "yarn build:client && yarn build:server",
